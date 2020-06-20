@@ -1,2 +1,2 @@
 # hello-world
-first repository on this account
+first try
